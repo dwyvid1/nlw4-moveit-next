@@ -1,5 +1,5 @@
 <h1 align="center">
-     Move.it
+     Move.it :rocket:
 </h1>
 
 <p align="center">
@@ -20,14 +20,14 @@ This project was developed using the following technologies:
 
 ## 🔥 Preview
 
-[![Deploy with Vercel](https://moveit-deyvid.vercel.app/)
+* https://moveit-deyvid.vercel.app/
 
 ## 🚀 Getting started
 
 Clone the project and access the folder
 
 ```bash
-$ git clone https://github.com/guilhermecapitao/nlw04-moveit-web.git && cd nlw04-moveit-web
+$ git clone https://github.com/dwyvid1/nlw4-moveit-next
 ```
 
 Follow the steps below
@@ -41,7 +41,7 @@ $ yarn dev
 
 ## 💻 Project
 
-[Move.it](https://moveit-deyvid.vercel.app/) came to remind you to exercise always! 💜 
+[Move.it](https://moveit-deyvid.vercel.app/) came to remind you to exercise always! :hearts:
 
 This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during February 22-28, 2021.
 
@@ -56,4 +56,4 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 
 ---
 
-<p align="center">Made with 💜 by Deyvid Nascimento</p>
+<p align="center">Made with :hearts: by Deyvid Nascimento</p>
