@@ -9,6 +9,11 @@
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
+![preview-1](https://github.com/dwyvid1/nlw4-moveit-next/blob/main/public/img/nlw4-moveit-preview1.png)
+![preview-2](https://github.com/dwyvid1/nlw4-moveit-next/blob/main/public/img/nlw4-moveit-preview2.png)
+![preview-3](https://github.com/dwyvid1/nlw4-moveit-next/blob/main/public/img/nlw4-moveit-preview3.png)
+![preview-4](https://github.com/dwyvid1/nlw4-moveit-next/blob/main/public/img/nlw4-moveit-preview4.png)
+
 ## 🧪 Technologies
 
 This project was developed using the following technologies:
