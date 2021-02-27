@@ -19,7 +19,7 @@
 This project was developed using the following technologies:
 
 - [Next.js](https://nextjs.org/)
-- [React](https://reactjs.org) 
+- [ReactJS](https://reactjs.org) 
 - [NodeJS](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
 
